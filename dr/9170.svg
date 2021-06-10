@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_StepForwardCircle_18_N_2x" height="36" data-name="S_StepForwardCircle_18_N@2x"><defs><style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style></defs><path data-cppathid="10000" d="M18,2A16,16,0,1,0,34,18,16,16,0,0,0,18,2ZM14,25a1,1,0,0,1-1,1H11a1,1,0,0,1-1-1V11a1,1,0,0,1,1-1h2a1,1,0,0,1,1,1Zm14.4-6.219L19.625,25.8A1,1,0,0,1,18,25.017V10.983a1,1,0,0,1,1.625-.781L28.4,17.219A1,1,0,0,1,28.4,18.781Z" class="fill"/></svg>
